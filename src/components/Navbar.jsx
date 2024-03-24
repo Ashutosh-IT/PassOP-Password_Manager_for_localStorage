@@ -9,7 +9,7 @@ const Navbar = function(){
             </div>
             <button className=" text-white bg-green-700  rounded-full flex justify-between items-center">
                 <img className="w-10 invert p-1"src="/icons/github.svg" alt="github" />
-                <span className="font-bold px-2">GitHub</span>
+                <a href="https://github.com/Ashutosh-IT/PassOP-Password_Manager_for_localStorage.git" target="_blank" className="font-bold px-2">GitHub</a>
             </button>
             </div>
         </nav>
